@@ -15,7 +15,7 @@ These platforms are intended for long-term professional use over the next four y
 
 # Task 3: Coding & Collaboration Platforms
 For technical practice, HackerRank was used to complete the "Solve Me First" and "Python Introduction" challenges, validating fundamental programming logic. For the collaboration component, Google Forms was employed to build a five-question "Digital Literacy Awareness Quiz." This form included multiple-choice questions regarding password security and short-answer prompts for user feedback. The form was successfully integrated with a Google Sheet to automate the collection and analysis of peer responses.
-
+Google form link:https://docs.google.com/forms/d/e/1FAIpQLSfE5NKyLUoDXUCtS0SbHigZAnvfol6GA3tieiA_9vTQvRMGjA/viewform?usp=publish-editor
 These tools offer significant academic advantages. HackerRank provides a standardized environment to prepare for technical placements and laboratory exams. Meanwhile, Google Workspace tools such as Forms and Sheets simplify the process of gathering research data and managing group projects. Proficiency in these platforms ensures that academic work is data-driven, organized, and aligned with modern collaborative standards used in the technology industry.
 
 # Task 4: Professional Communication
